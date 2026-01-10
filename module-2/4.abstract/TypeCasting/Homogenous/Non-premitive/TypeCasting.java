@@ -1,5 +1,5 @@
 class TypeCasting {
-	public static void upCatingDowncasting() {
+	public static void upCastingDowncasting() {
 		Employee employee ;
 		employee = new SoftwareDeveloper();
 
